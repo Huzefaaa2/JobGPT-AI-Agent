@@ -141,6 +141,11 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 Feel free to fork, improve, and PR. This project is designed to help beginners **learn AI, APIs, and app building** in one place.
 
+👨‍💻 Author
+Huzefa Husain
+🔗 LinkedIn
+💻 GitHub
+
 ---
 
 ## 📄 License
